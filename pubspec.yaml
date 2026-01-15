@@ -1,0 +1,83 @@
+name: dpu_mobil
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0 #
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+
+  #Object
+  equatable: ^2.0.7
+
+
+  #Component
+  flutter_svg: ^2.0.15
+
+
+
+  #Service
+  dio: ^5.7.0
+
+
+  #Cache
+  shared_preferences: ^2.5.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  #Localization
+  easy_localization: ^3.0.7
+
+  #Navigation
+  auto_route: ^9.2.2
+
+
+  #State Management
+  bloc: ^8.1.4
+  flutter_bloc: ^8.1.6
+  hydrated_bloc: ^9.1.2
+
+
+
+  #Injection
+  get_it: ^8.0.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^5.0.0
+  very_good_analysis: ^7.0.0
+  build_runner: ^2.4.11
+  auto_route_generator: ^9.0.0
+  hive_generator: ^2.0.1
+
+
+
+
+
+flutter:
+  assets:
+    - assets/images/icon/
+    - assets/images/picture/
+    - assets/lang/
+  fonts:
+    - family: Helvetica
+      fonts:
+        - asset: assets/font/helvetica/HelveticaNeueLight.otf
+
+
+
+  uses-material-design: true
+

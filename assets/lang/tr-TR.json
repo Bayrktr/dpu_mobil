@@ -1,0 +1,92 @@
+{
+  "general": {
+    "settings": "Ayarlar",
+    "university": "ÜNİVERSİTESİ",
+    "unknown": "Bilinmiyor",
+    "error": "Hata",
+    "error_occurred": "Hata oluştu"
+  },
+  "home": {
+    "profile": "Profil",
+    "map": "Map",
+    "news": "News",
+    "bus": "Bus",
+    "search": "Search"
+  },
+  "login": {
+    "user_name": "Kullanıcı adı",
+    "password": "Parola",
+    "rememberMe": "Beni Hatırla",
+    "didYouForgetPassword": "Parolanı unuttun mu?",
+    "login": "Giriş",
+    "visitor": "Ziyaretçi"
+  },
+  "news_page": {
+    "events": "Etkinlikler",
+    "news": "Haberler",
+    "announcements": "Duyurular",
+    "portal": "Portal",
+    "magazine": "E-Dergi",
+    "radio": "Radyo",
+    "telephoneDirectory": "Telefon Rehberi",
+    "information": "Bilgi",
+    "prayerTimes": "Namaz Vakitleri",
+    "academicCalendar": "Akademik Takvim",
+    "foodMenu": "Yemek Menüsü"
+  },
+  "event_content_page": {
+    "event_owner": "Etkinlik Sahibi",
+    "event_location": "Etkinlik Yeri",
+    "speakers": "Konuşmacılar"
+  },
+  "announcements_content_page": {
+    "dear_staff": "Değerli Personelimiz,",
+    "dear_students": "Değerli Öğrencilerimiz,"
+  },
+  "information_page": {
+    "institutes": "ENSTİTÜLER",
+    "faculties": "FAKÜLTELER",
+    "colleges": "YÜKSEKOKULLAR"
+  },
+  "telephone_directory_page": {
+    "thereIsNoEmergency": "Kampüste acil bir durum yoktur.",
+    "pleaseWrite": "kişi adı, soyadı veya birimi yazınız",
+    "emergencyAsistance": "ACİL YARDIM"
+  },
+  "profile_page": {
+    "student_information": "Öğrenci Bilgisi",
+    "transcript": "Transkript",
+    "syllabus": "Ders Programı",
+    "exam_schedule": "Sınav Programı",
+    "term_courses": "Dönem Dersleri",
+    "curriculum_courses": "Müfredat Dersleri",
+    "obs_course_announcement": "Obs Ders Duyurusu",
+    "obs_attendance_report": "Obs Attendance Report"
+  },
+  "student_information": {
+    "gpa": "Genel Not Ortalaması: {}",
+    "classLevel": "{}. Sınıf"
+  },
+  "months": {
+    "january": "Ocak",
+    "february": "Şubat",
+    "march": "Mart",
+    "april": "Nisan",
+    "may": "Mayıs",
+    "june": "Haziran",
+    "july": "Temmuz",
+    "august": "Ağustos",
+    "september": "Eylül",
+    "november": "Kasım",
+    "december": "Aralık"
+  },
+  "days": {
+    "monday": "Pazartesi",
+    "tuesday": "Salı",
+    "wednesday": "Çarşamba",
+    "thursday": "Perşembe",
+    "friday": "Cuma",
+    "saturday": "Cumartesi",
+    "sunday": "Pazar"
+  }
+}

@@ -1,0 +1,85 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+// ignore_for_file: constant_identifier_names
+
+abstract class  LocaleKeys {
+  static const general_settings = 'general.settings';
+  static const general_university = 'general.university';
+  static const general_unknown = 'general.unknown';
+  static const general_error = 'general.error';
+  static const general_error_occurred = 'general.error_occurred';
+  static const general = 'general';
+  static const home_profile = 'home.profile';
+  static const home_map = 'home.map';
+  static const home_news = 'home.news';
+  static const home_bus = 'home.bus';
+  static const home_search = 'home.search';
+  static const home = 'home';
+  static const login_user_name = 'login.user_name';
+  static const login_password = 'login.password';
+  static const login_rememberMe = 'login.rememberMe';
+  static const login_didYouForgetPassword = 'login.didYouForgetPassword';
+  static const login_login = 'login.login';
+  static const login_visitor = 'login.visitor';
+  static const login = 'login';
+  static const news_page_events = 'news_page.events';
+  static const news_page_news = 'news_page.news';
+  static const news_page_announcements = 'news_page.announcements';
+  static const news_page_portal = 'news_page.portal';
+  static const news_page_magazine = 'news_page.magazine';
+  static const news_page_radio = 'news_page.radio';
+  static const news_page_telephoneDirectory = 'news_page.telephoneDirectory';
+  static const news_page_information = 'news_page.information';
+  static const news_page_prayerTimes = 'news_page.prayerTimes';
+  static const news_page_academicCalendar = 'news_page.academicCalendar';
+  static const news_page_foodMenu = 'news_page.foodMenu';
+  static const news_page = 'news_page';
+  static const event_content_page_event_owner = 'event_content_page.event_owner';
+  static const event_content_page_event_location = 'event_content_page.event_location';
+  static const event_content_page_speakers = 'event_content_page.speakers';
+  static const event_content_page = 'event_content_page';
+  static const announcements_content_page_dear_staff = 'announcements_content_page.dear_staff';
+  static const announcements_content_page_dear_students = 'announcements_content_page.dear_students';
+  static const announcements_content_page = 'announcements_content_page';
+  static const information_page_institutes = 'information_page.institutes';
+  static const information_page_faculties = 'information_page.faculties';
+  static const information_page_colleges = 'information_page.colleges';
+  static const information_page = 'information_page';
+  static const telephone_directory_page_thereIsNoEmergency = 'telephone_directory_page.thereIsNoEmergency';
+  static const telephone_directory_page_pleaseWrite = 'telephone_directory_page.pleaseWrite';
+  static const telephone_directory_page_emergencyAsistance = 'telephone_directory_page.emergencyAsistance';
+  static const telephone_directory_page = 'telephone_directory_page';
+  static const profile_page_student_information = 'profile_page.student_information';
+  static const profile_page_transcript = 'profile_page.transcript';
+  static const profile_page_syllabus = 'profile_page.syllabus';
+  static const profile_page_exam_schedule = 'profile_page.exam_schedule';
+  static const profile_page_term_courses = 'profile_page.term_courses';
+  static const profile_page_curriculum_courses = 'profile_page.curriculum_courses';
+  static const profile_page_obs_course_announcement = 'profile_page.obs_course_announcement';
+  static const profile_page_obs_attendance_report = 'profile_page.obs_attendance_report';
+  static const profile_page = 'profile_page';
+  static const student_information_gpa = 'student_information.gpa';
+  static const student_information_classLevel = 'student_information.classLevel';
+  static const student_information = 'student_information';
+  static const months_january = 'months.january';
+  static const months_february = 'months.february';
+  static const months_march = 'months.march';
+  static const months_april = 'months.april';
+  static const months_may = 'months.may';
+  static const months_june = 'months.june';
+  static const months_july = 'months.july';
+  static const months_august = 'months.august';
+  static const months_september = 'months.september';
+  static const months_november = 'months.november';
+  static const months_december = 'months.december';
+  static const months = 'months';
+  static const days_monday = 'days.monday';
+  static const days_tuesday = 'days.tuesday';
+  static const days_wednesday = 'days.wednesday';
+  static const days_thursday = 'days.thursday';
+  static const days_friday = 'days.friday';
+  static const days_saturday = 'days.saturday';
+  static const days_sunday = 'days.sunday';
+  static const days = 'days';
+
+}
